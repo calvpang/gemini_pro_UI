@@ -1,6 +1,6 @@
 # Gemini Pro Interface
 
-This repository contains code that will allow you to interact with Gemini Pro via Command Line Interface or Gradio (*To be implemented*).
+This repository contains code that will allow you to interact with Gemini Pro via Command Line Interface or Gradio.
 
 ## Pre-requisites
 To begin, generate an Google Vertex AI API Key via [Google Maker Suite](https://makersuite.google.com/app/apikey) and store it in `src/config.yaml` as follows.
